@@ -11,4 +11,4 @@ Neste curso foi mostrado o que são estruturas de dados e uma pequena base teór
 
 ### Introdução ao Git e ao GitHub
 Este curso introduziu o basico sobre o funcionamento e como utilizar o Git e o GitHub. Mostrou também comandos basicos para a utiluzação do terminal em diferentes sistemas operacionais. Por fim, mostrou como criar e gerenciar um repositorio git e resolver conflitos de merge.
-[Anotações feitas durante o curso]()
+[Anotações feitas durante o curso](./Introdução%20ao%20Git%20e%20ao%20GitHub/anotações.md)
