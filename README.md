@@ -14,4 +14,4 @@ Este curso introduziu o basico sobre o funcionamento e como utilizar o Git e o G
 [Anotações feitas durante o curso](./Introdução%20ao%20Git%20e%20ao%20GitHub/anotações.md)
 
 ### Dominando IDEs Java
-Este curso introduziu um pouco da história do Java e suas caracteristicas. 
+Este curso introduziu um pouco da história do Java e suas caracteristicas. Também foi mostrado o passo a passo de como instalar e usar o Java e algumas IDEs como Eclipse e IntelliJ. [Anotações feitas durante o curso](./Dominando%20IDEs%20Java/anotações.md)
