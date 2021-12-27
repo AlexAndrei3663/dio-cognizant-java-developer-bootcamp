@@ -15,3 +15,6 @@ Este curso introduziu o basico sobre o funcionamento e como utilizar o Git e o G
 
 ### Dominando IDEs Java
 Este curso introduziu um pouco da história do Java e suas caracteristicas. Também foi mostrado o passo a passo de como instalar e usar o Java e algumas IDEs como Eclipse e IntelliJ. [Anotações feitas durante o curso](./Dominando%20IDEs%20Java/anotações.md)
+
+### Variaveis, Tipos de Dados, Operadores matemáticos em Java
+Neste curso vemos sintaxe basica de variaveis em Java e boas praticas. O que são tipos de dados e suas caracteristicas. Uma introdução a operadores arientimeticos e suas . Por fim, foi visto como realizar a convesão entre diferentes tipos de dados. [Anotações feitas durante o curso](./Variáveis,%20tipos%20de%20dados%20e%20operadores%20matemáticos%20em%20Java/anotações.md)
