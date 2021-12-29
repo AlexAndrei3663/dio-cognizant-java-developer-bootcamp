@@ -18,3 +18,6 @@ Este curso introduziu um pouco da história do Java e suas caracteristicas. Tamb
 
 ### Variaveis, Tipos de Dados, Operadores matemáticos em Java
 Neste curso vemos sintaxe basica de variaveis em Java e boas praticas. O que são tipos de dados e suas caracteristicas. Uma introdução a operadores arientimeticos e suas . Por fim, foi visto como realizar a convesão entre diferentes tipos de dados. [Anotações feitas durante o curso](./Variáveis,%20tipos%20de%20dados%20e%20operadores%20matemáticos%20em%20Java/anotações.md)
+
+### Entendendo Métodos Java
+Neste curso foi visto o que são métodos e sua sintaxe basica em Java. Foi visto como implementar um método, o que é e como implementar uma sobrecarga e, por fim, foi visto o que são os retornos dos métodos. [Exercicios realizados durante o curso](./Entendendo%20Métodos%20Java/exercicios/)
