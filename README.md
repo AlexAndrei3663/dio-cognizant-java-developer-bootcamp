@@ -21,3 +21,9 @@ Neste curso vemos sintaxe basica de variaveis em Java e boas praticas. O que sã
 
 ### Entendendo Métodos Java
 Neste curso foi visto o que são métodos e sua sintaxe basica em Java. Foi visto como implementar um método, o que é e como implementar uma sobrecarga e, por fim, foi visto o que são os retornos dos métodos. [Exercicios realizados durante o curso](./Entendendo%20Métodos%20Java/exercicios/)
+
+### Logica Condicional e Controle de Fluxo em Java
+Neste curso foram vistos os elementos condicionais em Java, sendo eles ifs, else ifs e swtchs. Foram vistos também boas praticas de codigos nos usos de condicionais e qual a melhor forma de usar cada um deles. [Exercicios realizados durante o curso](./Logica%20Condicional%20e%20Controle%20de%20Fluxo%20em%20Java/exercicios/)
+
+### Estruturas de Repetição e Arrays em Java
+Neste curso foi visto de forma prática como implementar loops e arrays em Java. Foram resolvidos alguns exercicios e mostado como utilizar cada tipo de loop. Foi introduzido também o basico das bibliotecas Scanner e Ramdom. [Exercicios realizados durante o curso](./Estruturas%20de%20Repetição%20e%20Arrays%20em%20Java/Exercicios/src/)
