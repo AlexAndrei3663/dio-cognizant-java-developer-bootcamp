@@ -27,3 +27,17 @@ Neste curso foram vistos os elementos condicionais em Java, sendo eles ifs, else
 
 ### Estruturas de Repetição e Arrays em Java
 Neste curso foi visto de forma prática como implementar loops e arrays em Java. Foram resolvidos alguns exercicios e mostado como utilizar cada tipo de loop. Foi introduzido também o basico das bibliotecas Scanner e Ramdom. [Exercicios realizados durante o curso](./Estruturas%20de%20Repetição%20e%20Arrays%20em%20Java/Exercicios/src/)
+
+### Reforçando o Conceito de Laços em Java
+Neste curso foi apresentada a teoria sobre cada tipo dos loops e sua sintaxe em Java. Foi apresentada a teoria sobre os interruptores, suas diferenças e quando usar cada um. Foi apresentada também a teoria sobre os arrays e matrizes.
+
+### Resolvendo Desafios de Códigos em Java
+Neste curso é apresentado como funcionam os desafios de código da Dio e dicas de como resolve-los.
+
+### Estrutura de dados em Java: 
+[Exercicios realizados durante o curso](./Estrutura%20de%20dados%20em%20Java/)
+#### -> Introdução
+Neste curso foi apresentada uma intrdução sobre estruturas de dados. Foi mostrado o que são nós e como implementa-los, foi mostrado um conceito basico sobre memória e atribuição por referencia em Java. Por fim, introduziu também o conceito de generics em Java.
+
+#### -> Pilhas e Filas
+Neste curso aprofundamos os conceitos de estruturas de dados vistos até então. Vimos sobre pilhas, filas e os conceitos do funcionamento de cada um e exemplificações de como implementar cada um deles em Java.
