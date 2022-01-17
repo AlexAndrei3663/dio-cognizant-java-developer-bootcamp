@@ -19,13 +19,13 @@ public class Fila<T> {
         if (isEmpty())
             return null;
 
-        No<T> noAuxiliar = noRef;
+        No<T> auxNode = noRef;
         
-        while (noAuxiliar.getProximoNo() != null) {
-            noAuxiliar = noAuxiliar.getProximoNo();
+        while (auxNode.getProximoNo() != null) {
+            auxNode = auxNode.getProximoNo();
         }
 
-        return noAuxiliar;
+        return auxNode;
     }
 
     public boolean isEmpty() {
@@ -54,9 +54,9 @@ public class Fila<T> {
         if (isEmpty())
             return null;
         
-        No<T> noAuxiliar = noRef;
+        No<T> auxNode = noRef;
         noRef = noRef.getProximoNo();
-        return noAuxiliar;
+        return auxNode;
     }
 
     @Override
@@ -66,13 +66,13 @@ public class Fila<T> {
         stringReturn += "-------------\n";
         
         if (!this.isEmpty()){
-            No<T> noAuxiliar = noRef;
+            No<T> auxNode = noRef;
 
-            stringReturn += noAuxiliar.toString();
+            stringReturn += auxNode.toString();
             
-            while (noAuxiliar != null) {
-                stringReturn += " <- " + noAuxiliar.toString();
-                noAuxiliar = noAuxiliar.getProximoNo();
+            while (auxNode != null) {
+                stringReturn += " <- " + auxNode.toString();
+                auxNode = auxNode.getProximoNo();
             }
         }
 

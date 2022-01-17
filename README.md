@@ -41,3 +41,6 @@ Neste curso foi apresentada uma intrdução sobre estruturas de dados. Foi mostr
 
 #### -> Pilhas e Filas
 Neste curso aprofundamos os conceitos de estruturas de dados vistos até então. Vimos sobre pilhas, filas e os conceitos do funcionamento de cada um e exemplificações de como implementar cada um deles em Java.
+
+#### -> Arvore
+Neste curso vimos o que são arvores e suas aplicações. Nos aprofundamos na arvore binária e desenvolvemos um codigo para implementar a mesma em Java.

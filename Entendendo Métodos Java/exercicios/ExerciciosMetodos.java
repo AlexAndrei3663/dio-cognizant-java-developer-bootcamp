@@ -1,6 +1,6 @@
 package exercicios;
 
-public class Main {
+public class ExerciciosMetodos {
     public static void main(String[] args) {
         exerciciosAula1();
         exerciciosAula2();
