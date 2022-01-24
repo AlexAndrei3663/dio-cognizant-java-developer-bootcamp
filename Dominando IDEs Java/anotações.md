@@ -1,20 +1,20 @@
-# Anotações feitas duranote o curso Dominando IDEs Java
+# Anotações feitas durante o curso Dominando IDEs Java
 
-## Caracteristicas do Java
+## Características do Java
 ### Sequencia de compilação do java
 Programa.java -> Compilador -> Programa.class -> JMV -> 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01100001
 
-Primeiro escrevemos o codigo fonte. Depois, o compilador converte o programa em um arquivo bytecode. E por fim, o JMV interpreta o arquivo bytecode em linguagem de maquina.
+Primeiro escrevemos o código fonte. Depois, o compilador converte o programa em um arquivo bytecode. E por fim, o JMV interpreta o arquivo bytecode em linguagem de maquina.
 
 ### Plataformas Java
-- Java SE (Java Plataform, Standart Edition) - Base da plataorma onde as bibliotecas comuns estão localisadas
-- Java EE (Java Plataform, Enterprise Edition) -  Responsavel pelo desenvolvimento web
-- Jama ME (Java Plataform, Micro Edition) - Responsavel pelo desenvolvimento de dismositivos moveis e embarcados
+- Java SE (Java Platform, Standard Edition) - Base da plataforma onde as bibliotecas comuns estão localizadas
+- Java EE (Java Platform, Enterprise Edition) -  Responsável pelo desenvolvimento web
+- Java ME (Java Platform, Micro Edition) - Responsável pelo desenvolvimento de dispositivos moveis e embarcados
 
 ### Componentes Java
-JDK (Java development Kit) - Responsavel por transformar o codigo em bytecode.<br/>
-JRE (Java Run-time Envirement) - Ambiente de execulção do Java que fornece as bibliotecas padrão do Java.<br/> 
-JVM (Java Virtual Machine) - Responsavel por converter o bytecode em linguagem de maquina para poder ser execultado.
+JDK (Java development Kit) - Responsável por transformar o código em bytecode.<br/>
+JRE (Java Run-time Environment) - Ambiente de execução do Java que fornece as bibliotecas padrão do Java.<br/> 
+JVM (Java Virtual Machine) - Responsável por converter o bytecode em linguagem de maquina para poder ser execultado.
 
 ### Ambientes de desenvolvimento (IDEs)
 - Eclipse
@@ -25,7 +25,7 @@ JVM (Java Virtual Machine) - Responsavel por converter o bytecode em linguagem d
 ## Instalando Java Ubuntu
 Verificando versão do Java
 ```
-java --vesion
+java --version
 ```
 
 Instalar o JDK
@@ -58,8 +58,8 @@ export PATH=\$PATH:\$JAVA_HOME
 ```
 C:\Program Files\Java\zulu17.30.15-ca-jdk17.0.1-win_x64
 ```
-4. Criar uma nova variavel de ambiente com o nome JAVA_HOME e endereçar o caminho da pasta copiado.
-5. Editar a variavel de ambiente Path. Nela vamos adicionar o caminho para a pasta que copiamos também. E adicionamos \bin ao final.
+4. Criar uma nova variável de ambiente com o nome JAVA_HOME e endereçar o caminho da pasta copiado.
+5. Editar a variável de ambiente Path. Nela vamos adicionar o caminho para a pasta que copiamos também. E adicionamos \bin ao final.
 ```
 C:\Program Files\Java\zulu17.30.15-ca-jdk17.0.1-win_x64\bin
 ```
