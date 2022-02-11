@@ -20,7 +20,7 @@ Este curso introduziu o básico sobre o funcionamento e como utilizar o Git e o 
 
 ### Dominando IDEs Java
 
-Este curso introduziu um pouco da história do Java e suas características. Também foi mostrado o passo a passo de como instalar e usar o Java e algumas IDEs como Eclipse e IntelliJ. [Anotações feitas durante o curso](./Dominando%20IDEs%20Java/anotações.md)
+Este curso introduziu um pouco da história do Java e suas características. Também foi mostrado o passo a passo de como instalar e usar o Java e algumas IDEs como Eclipse e IntelliJ. [Anotações feitas durante o curso](./Dominando%20IDEs%20Java%20-%20anotações.md)
 
 ### Variáveis, Tipos de Dados, Operadores matemáticos em Java
 
@@ -85,3 +85,36 @@ Neste curso vimos o que é o Collections Framework e suas aplicações. Vimos ta
 ### Introdução a Microsserviços
 
 Neste curso foi visto um pouco sobre a arquitetura de microsserviços e como sua modelagem se difere da arquitetura monolítica. Vimos também um pouco sobre back-end for front-end(BFF) e como ele facilita a relação dos microsserviços com o front-end. Vimos também Domain-Drive Design(DDD) que é uma filosofia combinada a um padrão de projeto. Por fim, vimos a aplicabilidade dos conceitos do  DDD na pratica, se compensa a aplicação no projeto e os principais erros na aplicação.
+
+### Introdução a Qualidade de Software
+
+Neste curso vimos o principio da testagem de software. Vimos a importância de realizarmos uma boa politica de testagem e como realizar essa testagem e diferentes técnicas para realizara esse fim. [Link Util](https://github.com/ruirodri/introJUnit)
+
+### Aprendendo a aplicar testes com Java
+
+Neste curso vimos sobre a implementação e uso do JUnit. Vimos como lançar diferentes tipos de testes em Java e como fazer uso de testes pode facilitar nosso trabalho no futuro.
+
+### SQL SERVER - Criando  suas primeiras consultas
+
+Neste curso foi visto o que são bancos de dados e a diferença de bancos de dados relacionais e não relacionais. Foi visto na pratica como implementar o básico de um banco de dados, relacionar tabelas e como realizar consultas e coletas de dados.
+
+### Modelando um banco de dados na prática com SQL SERVER
+
+Neste curso foi visto um exemplo pratico da criação de um banco de dados relacional no SQL Server. Vimos como modelar as tabelas, um pouco sobre a integração com uma API e sobre boas práticas [Link Útil](https://github.com/ThiagoAcam/ControleAcessoEstrelaDaMorte)
+
+### SQL Server: Boas práticas em bancos relacionais
+
+Neste curso vimos uma aplicação em mundo real de uma criação de um banco de dados em SQL. Vimos o básico para a criação de um banco de dados com SQL. E vimos as boas praticas na criação do banco de dados e na implementação de um código em SQL.
+
+### Introdução a APTs e métodos HTTP
+
+Neste curso vimos um pouco sobre o que são APIs e sobre a arquitetura REST. Vimos como quais os padrões básicos para criar e se comunicar com uma API Restful. E vimos um pouco sobre o programa Postman.
+
+### Introdução ao framework Spring Boot
+
+Neste curso foi visto uma introdução ao Spring Boot, foram vistos os conceitos básicos do framework e como ele agiliza o processo de desenvolvimento. Foi feito um exemplo pratico e como configurar o Spring Boot. Foi também visto o que são Fatjar e Uberjar.[Referencias](./Introdução%20ao%20framework%20Spring%20Boot/Referencias%20da%20aula.md)
+
+### Simplificando Projetos com o Spring Boot
+
+### Introdução aos Conceitos de API e Clean Architecture
+

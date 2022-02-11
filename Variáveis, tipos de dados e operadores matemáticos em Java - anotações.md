@@ -1,6 +1,7 @@
-# Anotações feitas duranote o curso Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+# Anotações feitas durante o curso Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 
 ## Tipos de dados e seus tamanhos
+
 |Tipo|Tamanho|Valor min|Valor Max|Precisão|
 |:---|:---:|:---|:---|:---:|
 |boolean|1 bit|false|true|--|
@@ -12,6 +13,7 @@
 |doable|8 bytes|-1.7976931 e+308|1.7976931 e+308|15 dígitos|
 
 ## Tabela de prioridade de execução de operadores matemáticos
+
 |Operador|Precedência|
 |:---|:---|
 |Pós-fixado|exp++, exp--|
@@ -20,7 +22,8 @@
 |Aditivo|+, -|
 |Atribuição|=, +=, -=, *=, /=, %=|
 
-## Tabela de converção de tipos de dados
+## Tabela de conversão de tipos de dados
+
 |||byte|short|char|int|long|float|double|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |byte||---|U - I|char|U - I|U - I|U - I|U - I|
